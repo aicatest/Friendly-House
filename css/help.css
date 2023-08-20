@@ -1,0 +1,64 @@
+.help {
+  width: 957px;
+}
+
+.title {
+  font-family: "Comfortaa";
+  font-weight: 400;
+  font-size: 50px;
+  text-align: right;
+  color: #ff8a00;
+  margin-bottom: 134px;
+}
+
+.help__list {
+  padding-left: 60px;
+}
+
+.help__item::marker {
+  font-family: "Comfortaa";
+  font-weight: 400;
+  font-size: 50px;
+  color: #ff8a00;
+  margin-right: 50px;
+}
+
+.help__item-one {
+  max-width: 379px;
+}
+
+.help__item-two {
+  max-width: 643px;
+}
+
+.help__item-three {
+  max-width: 541px;
+}
+
+.help__item {
+  margin-bottom: 130px;
+}
+
+.help__title {
+  font-family: "Helvetica Neue Cyr";
+  font-weight: 500;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.help__text {
+  font-family: "Helvetica Neue Cyr";
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.help__item-two .help__text{
+  margin-bottom: 30px;
+}
+
+.help__subtitle {
+  font-family: "Helvetica Neue Cyr";
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 30px;
+}

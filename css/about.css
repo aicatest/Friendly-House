@@ -1,0 +1,27 @@
+.about {
+  font-weight: 400;
+  text-align: left;
+  margin-bottom: 210px;
+}
+
+.about--container {
+  max-width: 447px;
+  margin: 0;
+
+}
+
+.about__title {
+  font-family: "Comfortaa";
+  font-weight: 400;
+  font-size: 50px;
+  color: inherit;
+  margin-bottom: 30px;
+}
+
+.about__description {
+  font-family: "Helvetica Neue Cyr";
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 1.2;
+  color: inherit;
+}
