@@ -13,6 +13,7 @@
 
 .help__list {
   padding-left: 60px;
+  margin-bottom: 130px;
 }
 
 .help__item::marker {
@@ -33,6 +34,7 @@
 
 .help__item-three {
   max-width: 541px;
+  margin-bottom: 0;
 }
 
 .help__item {
@@ -54,6 +56,10 @@
 
 .help__item-two .help__text{
   margin-bottom: 30px;
+}
+
+.help__item-two .help__text:last-child {
+  margin-bottom: 0;
 }
 
 .help__subtitle {
